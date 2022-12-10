@@ -53,7 +53,7 @@ global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
-global.owner = ['6281338302495', '6285338440313', '6283899515608']
+global.owner = ['6285801027619', '6285338440313', '6283899515608']
 global.ownernomer = "6281338302495" //ur number
 global.ownernomer2 = "6285338440313" // second number
 global.ownernomer3 = "6283899515608" // stfu
